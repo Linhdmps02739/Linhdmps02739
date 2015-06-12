@@ -1,0 +1,13 @@
+c:\users\kephong\documents\visual studio 2012\Projects\Linhdmps02739\Linhdmps02739\bin\Debug\Linhdmps02739.exe.config
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\bin\Debug\Linhdmps02739.exe
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\bin\Debug\Linhdmps02739.pdb
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\bin\Debug\Linhdmps02739.xml
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.frmMain.resources
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.Quanlykhachhang.resources
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.Quanlynhansu.resources
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.frmDangnhap.resources
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.Resources.resources
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.vbproj.GenerateResource.Cache
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.exe
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.xml
+C:\Users\KEphong\Documents\Visual Studio 2012\Projects\Linhdmps02739\Linhdmps02739\obj\Debug\Linhdmps02739.pdb
